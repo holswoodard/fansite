@@ -1,0 +1,43 @@
+body {
+  background-color:#5BAED2;
+
+ font-family: 'Montserrat', sans-serif;
+}
+
+h1{ 
+font-family: 'Honk', system-ui;
+font-size: 50px;
+ }
+
+ .headbox {
+background-color: lightblue ;
+padding: 20px;
+margin: 100px 20px 0 20px;
+
+/* padding and margin is written clockwise... top/right/bottom/left*/
+/* this is a comment in CSS */
+
+text-align: center;
+ }
+
+
+ .tabletext {
+font-family: 'Honk', system-ui;
+ color: whitesmoke;
+ font-size: 30px;
+ }
+
+ .paratext{
+  color: whitesmoke;
+ }
+
+ .extrapage{
+  text-align: center;
+  color: indianred;
+ }
+
+
+.bob{
+  font-family: 'Protest Revolution', sans-serif;
+  text-align: center;
+}
